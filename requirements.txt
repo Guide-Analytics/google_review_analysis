@@ -1,0 +1,8 @@
+pandas
+scipy
+textblob
+pyspark
+nltk
+numpy
+spacy
+vaderSentiment
