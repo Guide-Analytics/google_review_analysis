@@ -1,4 +1,4 @@
-# GIDE INC.: Review Analysis 2.0 - for Google (Review analysis 1.0 is defunct) 
+# Google Review Analysis 2.0 (Review analysis 1.0 is deprecated) 
 
 - This is currently the 2nd version of Review Analysis. 
 - Mainly, we want to focus on extraction of reviews and analyze them based on word count,
